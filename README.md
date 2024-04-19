@@ -1,6 +1,6 @@
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/usebot2030/menfes)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/userbot2030/menfes)</br>
 
 #### Deploy on Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
